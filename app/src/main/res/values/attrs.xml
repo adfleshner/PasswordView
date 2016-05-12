@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="passwordView">
+        <attr name="pwv_pass_hint" format="string" />
+        <attr name="pwv_pass_text" format="string" />
+        <attr name="pwv_show_pass" format="boolean"/>
+        <attr name="pwv_drawable" format="reference"/>
+        <attr name="pwv_show_pass_hover" format="boolean"/>
+    </declare-styleable>
+
+</resources>

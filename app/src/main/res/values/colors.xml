@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="pwv_color">@color/colorAccent</color>
+    <color name="pwv_checked_color">@color/colorAccent</color>
+    <color name="pwv_unchecked_color">@color/colorAccent</color>
 </resources>
